@@ -2,7 +2,7 @@
 A minimal javascript module to prevent a web user from accessing the console.
 
 ## Dependency
-- JQuery
+- `JQuery` :: Make sure your're using this module after importing jquery.
 
 ## How to use
 To use this module, proceed as follows:
